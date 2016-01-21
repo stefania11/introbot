@@ -1,3 +1,3 @@
-name = "Hilary"
-valediction = "Cheers"
-closing = "I think you'll find quite a bit to talk about."
+name = "Stefania"
+valediction = "Kind regards"
+closing = "I think you'll enjoy and benefit from talking to each other."
